@@ -32,10 +32,32 @@ This project is purely **UI-focused** – showcasing product listings and pages 
 ## 📸 Screenshots  
 
 ### 🏠 Home Page (Hero Section)  
-![Home Page](./screenshots/home.png)  
+![Home Page](./screenshots/fruitables.png)  
 
 ### 🛍️ Product Listing Page (Grid View)  
-![Products Page](./screenshots/products.png)  
+![Products Page](./screenshots/fruitables products.png)  
+
+### 📄 Product Details Page  
+![Details Page](./screenshots/detailspage.png)  
+
+### 🎞️ Slider Section  
+![Slider](./screenshots/slider.png)  
+ 
+### 🛒 Shop Page  
+![Shop Page](./screenshots/shop.png)  
+
+### 🛒 Shop Page (Variation)  
+![Shop Page 2](./screenshots/shop1.png)  
+
+### 💬 Testimonial Section  
+![Testimonial](./screenshots/testimonial.png)  
+
+### 🗺️ Map Section  
+![Map](./screenshots/map.png) 
+
+### 📑 Footer Section  
+![Footer](./screenshots/footer.png)  
+
 
 ---
 
