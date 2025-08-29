@@ -35,7 +35,7 @@ This project is purely **UI-focused** – showcasing product listings and pages 
 ![Home Page](./screenshots/fruitables.png)  
 
 ### 🛍️ Product Listing Page (Grid View)  
-![Products Page](./screenshots/fruitables products.png)  
+![Products Page](./screenshots/fruitablesproducts.png)  
 
 ### 📄 Product Details Page  
 ![Details Page](./screenshots/detailspage.png)  
